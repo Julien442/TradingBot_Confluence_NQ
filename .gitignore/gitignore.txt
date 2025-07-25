@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+*.pyo
+
+# Logs & sorties
+*.log
+*.csv
+
+# Streamlit
+.streamlit/
+
+# IDE (Visual Studio Code, PyCharm)
+.vscode/
+.idea/
+
+# Environnements virtuels
+venv/
+env/
+.venv/
+.env
+
+# Système
+.DS_Store
+Thumbs.db
